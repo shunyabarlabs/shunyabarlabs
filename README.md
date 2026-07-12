@@ -24,6 +24,23 @@ ShunyaBar Labs builds optimization engines based on thermodynamics, spectral geo
 
 **Philosophy**: If a problem has hidden structure, physics will find it. If it’s random noise, we’ll tell you. No free lunch theorems respected.
 
+### **Start Here**
+
+| **I want to...** | **Go to** |
+| --- | --- |
+| **Solve a hard problem** | `navokoj.shunyabar.foo` → Get API Key |
+| **Read the math** | `research.shunyabar.foo` |
+| **Run the code** | `github.com/sethuiyer/baha` → `examples/` |
+| **Verify claims** | `huggingface.co/sethuiyer/shunyabar-evidence-v1` |
+| **Watch the explainer** | `youtube.com/watch?v=2-F1sdZKPa4` |
+| **Deploy in prod** | `api.navokoj.shunyabar.foo/docs` |
+
+### **The Story: Who We Are**
+
+**Sethu Iyer** — Independent researcher. BITS-Pilani Math, IIT Delhi Quantum ML. Built in public with AI augmentation.
+
+## Resources
+
   - ShunyaBar Labs (https://shunyabar.foo/) — company and ecosystem landing page.
   - Research site (https://research.shunyabar.foo/) — exploratory mathematical notebook and
     research essays.
