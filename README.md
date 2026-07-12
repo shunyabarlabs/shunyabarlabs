@@ -1,5 +1,7 @@
 ## Hi There!
 
+![img](./shunya_bar_labs_cover.webp)
+
   - ShunyaBar Labs (https://shunyabar.foo/) — company and ecosystem landing page.
   - Research site (https://research.shunyabar.foo/) — exploratory mathematical notebook and
     research essays.
