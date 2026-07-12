@@ -2,6 +2,28 @@
 
 ![img](./shunya_bar_labs_cover.webp)
 
+# **ShunyaBar Labs**
+### *Computation as Physics*
+
+**We don’t search solution spaces. We let them settle.**
+
+ShunyaBar Labs builds optimization engines based on thermodynamics, spectral geometry, and number theory. Our solvers treat NP-hard problems as physical systems, not logic puzzles.
+
+### **The Product: Navokoj**
+
+| **What** | **Details** |
+| --- | --- |
+| **API** | `navokoj.shunyabar.foo` — REST + Python SDK |
+| **Solves** | SAT, MaxSAT, TSP, VRP, Graph Coloring, Scheduling, Ramsey |
+| **Edge** | Detects when problems “fracture” and teleports via Lambert W branches |
+| **Proof** | `pip install navokoj` → 26 domains, 84% pass rate, 109 test files |
+| **Pricing** | `navokoj.shunyabar.foo/pricing` |
+| **Docs** | `navokoj.shunyabar.foo/docs` |
+
+**Try it now**: `import navokoj` — 3 lines to escape local minima.
+
+**Philosophy**: If a problem has hidden structure, physics will find it. If it’s random noise, we’ll tell you. No free lunch theorems respected.
+
   - ShunyaBar Labs (https://shunyabar.foo/) — company and ecosystem landing page.
   - Research site (https://research.shunyabar.foo/) — exploratory mathematical notebook and
     research essays.
