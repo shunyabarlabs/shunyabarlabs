@@ -3,33 +3,8 @@
 ![img](./shunya_bar_labs_cover.webp)
 
 # ShunyaBar Labs
-## *Computation as Physics*
-
-> **We don't search solution spaces. We let them settle.**
 
 ShunyaBar Labs builds optimization engines based on thermodynamics, spectral geometry, and number theory. Our solvers treat NP-hard problems as physical systems, not logic puzzles.
-
----
-
-## The Product: Navokoj
-
-| **What** | **Details** |
-|----------|-------------|
-| **API** | `navokoj.shunyabar.foo` — REST + Python SDK |
-| **Solves** | SAT, MaxSAT, TSP, VRP, Graph Coloring, Scheduling, Ramsey |
-| **Edge** | Detects when problems "fracture" and teleports via Lambert W branches |
-| **Proof** | `pip install navokoj` → 26 domains, 84% pass rate, 109 test files |
-| **Pricing** | [navokoj.shunyabar.foo/pricing](https://navokoj.shunyabar.foo/pricing) |
-| **Docs** | [navokoj.shunyabar.foo/docs](https://navokoj.shunyabar.foo/docs) |
-
-### Try it now:
-```python
-import navokoj
-# 3 lines to escape local minima
-```
-
-### Philosophy
-> If a problem has hidden structure, physics will find it. If it's random noise, we'll tell you. No free lunch theorems respected.
 
 ---
 
@@ -46,8 +21,31 @@ import navokoj
 
 ---
 
-## The Story: Who We Are
+---
 
+## The Product: Navokoj
+
+| **What** | **Details** |
+|----------|-------------|
+| **API** | `navokoj.shunyabar.foo` — REST + Python SDK |
+| **Design** | `shunyabarlabs/reify` — D SDK to intuitively design constraints  |
+| **Solves** | SAT, MaxSAT, TSP, VRP, Graph Coloring, Scheduling, Ramsey |
+| **Edge** | Detects when problems "fracture" and teleports via Lambert W branches |
+| **Proof** | `pip install navokoj` → 26 domains, 84% pass rate, 109 test files |
+| **Pricing** | [navokoj.shunyabar.foo/pricing](https://navokoj.shunyabar.foo/pricing) |
+| **Docs** | [navokoj.shunyabar.foo/docs](https://navokoj.shunyabar.foo/docs) |
+
+
+### Philosophy
+> If a problem has hidden structure, physics will find it. If it's random noise, we'll tell you. No free lunch theorems respected.
+## *Computation as Physics*
+> **We don't search solution spaces. We let them settle.**
+> **Diagnose Obstruction before Optimization**
+
+
+<details>
+  <summary> The Story: Who we are?</summary>
+  
 **Sethu Iyer** — Independent researcher. BITS-Pilani Math, IIT Delhi Quantum ML. Built in public with AI augmentation.
 
 ---
@@ -104,6 +102,8 @@ import navokoj
 - [Hacker News discussion 1](https://news.ycombinator.com/item?id=46032246)
 - [Hacker News discussion 2](https://news.ycombinator.com/item?id=45639543)
 - [Hugging Face Ramsey52](https://huggingface.co/aninokumar/ramsey52)
+
+</details>
 
 ---
 
